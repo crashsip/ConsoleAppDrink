@@ -39,7 +39,7 @@ namespace ConsoleAppDrink
             grade = grade1;
         }
 
-        public string Addjae()
+        public string AddJae()
         {
             
             return "Вы добавили варенье в " + grade + " чай";

@@ -12,7 +12,7 @@ namespace ConsoleAppDrink
 
             Console.WriteLine(t1.Pour());
             Console.WriteLine(t1.AddSugar());
-            Console.WriteLine(t1.Addjae());
+            Console.WriteLine(t1.AddJae());
             Console.WriteLine(t1.DrinkUp());
 
             Console.WriteLine();
