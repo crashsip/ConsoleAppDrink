@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDrink", "ConsoleAppDrink\ConsoleAppDrink.csproj", "{5F665355-4065-4911-8198-71A7F2C7DD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F665355-4065-4911-8198-71A7F2C7DD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F665355-4065-4911-8198-71A7F2C7DD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F665355-4065-4911-8198-71A7F2C7DD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F665355-4065-4911-8198-71A7F2C7DD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9621F4B-3DB6-415A-8A1B-F739BB7FB1E8}
+	EndGlobalSection
+EndGlobal
