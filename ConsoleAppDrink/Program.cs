@@ -12,7 +12,7 @@ namespace ConsoleAppDrink
 
             Console.WriteLine(t1.Pour());
             Console.WriteLine(t1.AddSugar());
-            Console.WriteLine(t1.Addjae());
+            Console.WriteLine(t1.AddJae());
             Console.WriteLine(t1.DrinkUp());
 
             Console.WriteLine();
@@ -20,7 +20,7 @@ namespace ConsoleAppDrink
             Console.WriteLine(c1.Pour());
             Console.WriteLine(c1.AddMilk());
             Console.WriteLine(c1.DrinkUp());
-            Console.WriteLine();
+            Console.WriteLine("А здесь сделаем вывод сообщения чтобы научиться фиксировать правки в коде через GitHub");
 
             Console.ReadKey();
         }
